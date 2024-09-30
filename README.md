@@ -8,3 +8,9 @@
 
 #Install Dependencies
 #pip3 install juypterlab numpy pandas pyarrow matplotlib seaborn
+
+#Added Juypter File
+#notebook.ipynb
+
+#Added .gitignore line for Juypter 
+#.ipynb_checkpoints/
