@@ -30,3 +30,14 @@
 
 #Added Gold Prices And Metrics to Project
 #Source:  https://www.kaggle.com/datasets/cvergnolle/gold-price-and-relevant-metrics/code 
+
+#EDA
+
+#Data Acquisition
+#Initial Data Inspection
+#Initial Descriptive Statistics
+#Initial Data Distribution for Numerical Columns
+#Initial Data Distribution for Categorical Columns
+#Initial Data Preparation (or Data Preprocessing)
+#Initial Visualizations
+#Initial Storytelling and Presentation
