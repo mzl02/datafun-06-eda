@@ -11,6 +11,9 @@
 
 #Added Juypter File
 #notebook.ipynb
+#renamed to zachlawrence_eda.ipynb
 
 #Added .gitignore line for Juypter 
 #.ipynb_checkpoints/
+
+#Set Python Interpter in Juypter
